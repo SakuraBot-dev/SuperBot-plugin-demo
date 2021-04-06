@@ -1,0 +1,5 @@
+{
+  "name": "demo",
+  "entry": "index",
+  "packagename": "xyz.imoe.demo"
+}
